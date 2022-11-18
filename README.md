@@ -1,4 +1,6 @@
-#2E-CTVRP
+# 2E-CTVRP
+
+## Two-echelon Vehicle Routing Problem for Post-disaster Aid
 
 This folder contains the files of MSc dissertation with following information: 
 
