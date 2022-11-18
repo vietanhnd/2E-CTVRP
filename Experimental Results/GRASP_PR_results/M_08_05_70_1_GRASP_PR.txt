@@ -1,0 +1,10 @@
+Results achieved from GRASP-PR:
+Objective value (h): z = 12.013
+CPU time (s): t = 0.656
+truck 1: 0 ->  1 ->  3 ->  2 ->  5 ->  4 ->  6
+
+drone route 1: 1 -> 5
+drone route 2: 2 -> 4
+drone route 3: 3 -> 1
+drone route 4: 4 -> 2
+drone route 5: 5 -> 3
