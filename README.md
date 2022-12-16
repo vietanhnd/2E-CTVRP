@@ -46,7 +46,7 @@ or Google Colab: https://colab.research.google.com/
 
 2, Gurobi for academic: https://www.gurobi.com/academia/academic-program-and-licenses/
 
-3, Scientific and Computing, Data Analysis, Data Visualization Python Package: 
+3, Scientific Computing, Data Analysis and Data Visualization Python Package: 
 
 Pandas, Numpy, Matplotlib, Math, Copy, Time, Random
 
