@@ -1,0 +1,14 @@
+Results:
+Objective function (h): z = 13.071
+Response time: r = 2.764
+Calculation time (s): t = 17.868
+truck 1: 0 ->  1 ->  7 ->  4 ->  8
+truck 2: 0 ->  5 ->  2 ->  6 ->  3 ->  8
+
+drone route 1: 1 -> 2
+drone route 2: 2 -> 5
+drone route 3: 3 -> 1
+drone route 4: 4 -> 3
+drone route 5: 5 -> 4
+drone route 6: 6 -> 7
+drone route 7: 7 -> 6
